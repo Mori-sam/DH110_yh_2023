@@ -9,3 +9,4 @@ For now, my project will rely on sharing family members' location and what are t
 The APP I introduced is called Life360.
 [Let's go to Life360!](http://app.life360.com)
 
+![Photo of Life360 APP](life360img.png)
