@@ -11,3 +11,8 @@ The APP I introduced is called Life360.
 [Let's go to Life360!](http://app.life360.com)
 
 ![Photo of Life360 APP](life360img.png)
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
