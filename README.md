@@ -12,7 +12,7 @@ The APP I introduced is called Life360.
 
 ![Photo of Life360 APP](life360img.png)
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| Heuristic | Evaluation | Recommendation |
 | --------------- | --------------- | --------------- |
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
